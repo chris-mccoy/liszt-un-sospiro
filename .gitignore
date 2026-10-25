@@ -1,0 +1,5 @@
+__pycache__/
+.DS_Store
+*.band/Alternatives/000/Autosave/
+Broken*
+*.m4a
